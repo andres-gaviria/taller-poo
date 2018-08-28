@@ -1,4 +1,5 @@
 ///////////punto 1////////////////
+
 package punto1;
 import java.util.Scanner;
 
