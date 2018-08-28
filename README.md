@@ -1,6 +1,7 @@
 ///////////punto 1////////////////
 
 package punto1;
+
 import java.util.Scanner;
 
 class punto1 {
@@ -27,7 +28,9 @@ class punto1 {
 ///////////punto 4////////////////////
 
 package Ejercicios;
+
 import java.util.Scanner;
+
     public class Ejercicio7 {
     public static void main(String[] args) {
     Scanner sc = new Scanner (System.in);
@@ -47,6 +50,7 @@ import java.util.Scanner;
 ///////////punto 5 //////////////////
 
 package punto5;
+
 import java.util.Scanner;
 
 class punto5 {
@@ -79,7 +83,9 @@ class punto5 {
 ///////////////punto 7 /////////////////////
 
 package Ejercicios;
+
     import java.util.Scanner;
+    
     public class Ejercicio7 {
     public static void main(String[] args) {
     Scanner sc = new Scanner (System.in);
@@ -98,6 +104,7 @@ package Ejercicios;
 //////////////punto 14 /////////////////////
 
 package punto14;
+
 import java.util.Scanner;
 
 class punto14 {
@@ -129,6 +136,7 @@ class punto14 {
 //////////////punto 15//////////////////////
 
 package Ejercicios;
+
 import java.util.Scanner;
 
     public class Ejercicio15 {
