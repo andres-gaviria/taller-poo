@@ -25,6 +25,7 @@ class punto1 {
 }
 
 ///////////punto 4////////////////////
+
 package Ejercicios;
 import java.util.Scanner;
     public class Ejercicio7 {
@@ -44,6 +45,7 @@ import java.util.Scanner;
 }
 
 ///////////punto 5 //////////////////
+
 package punto5;
 import java.util.Scanner;
 
@@ -75,6 +77,7 @@ class punto5 {
 }
 
 ///////////////punto 7 /////////////////////
+
 package Ejercicios;
     import java.util.Scanner;
     public class Ejercicio7 {
@@ -93,6 +96,7 @@ package Ejercicios;
   }
 }
 //////////////punto 14 /////////////////////
+
 package punto14;
 import java.util.Scanner;
 
@@ -123,6 +127,7 @@ class punto14 {
 }
 
 //////////////punto 15//////////////////////
+
 package Ejercicios;
 import java.util.Scanner;
 
