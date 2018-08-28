@@ -44,6 +44,8 @@ import java.util.Scanner;
     h=a*a+b*b;
     resultado=(int)Math.sqrt(h);
     System.out.println("La hipotenusa del triangulo es: "+resultado);
+    System.out.println("\n");
+	System.out.println("\t\t\tAndres Gaviria - Sebastian Lozano");
   }
 }
 
@@ -99,6 +101,8 @@ package Ejercicios;
     h=a*a+b*b;
     resultado=(int)Math.sqrt(h);
     System.out.println("La hipotenusa del triangulo es: "+resultado);
+    System.out.println("\n");
+	System.out.println("\t\t\tAndres Gaviria - Sebastian Lozano");
   }
 }
 //////////////punto 14 /////////////////////
@@ -171,5 +175,7 @@ import java.util.Scanner;
     if(n3<n1 && n3<n2) {
     System.out.println("El numero menor es: "+n3);
     }
+    System.out.println("\n");
+	System.out.println("\t\t\tAndres Gaviria - Sebastian Lozano");
   }
 }
